@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://app.lotes.com.cn/lotes/download/img/ios.png</string>
+					<string>http://app.lotes.com.cn/lotes/download/ios.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://app.lotes.com.cn/lotes/download/img/ios.png</string>
+					<string>http://app.lotes.com.cn/lotes/download/ios.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
