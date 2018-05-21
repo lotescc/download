@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.lotes.com.cn:9999/lotes/download/LOTES.ipa</string>
+					<string>http://app.lotes.com.cn:9999/lotes/download/workAssistant.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LOTES</string>
+				<string>工作助手</string>
 			</dict>
 		</dict>
 	</array>
